@@ -1,0 +1,4 @@
+.env
+golang-clean.*
+golang-clean
+migrate.linux-amd64
